@@ -1,3 +1,7 @@
+# Specific files
 log-files
 _git-trash
 _stash.zip
+
+# Any files starting with _temp
+**/_temp*
