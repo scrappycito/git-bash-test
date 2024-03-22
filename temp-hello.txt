@@ -1,1 +1,6 @@
 hello second local
+<<<<<<< Updated upstream
+=======
+differ
+differ
+>>>>>>> Stashed changes
