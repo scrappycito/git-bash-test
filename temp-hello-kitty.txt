@@ -1,6 +1,0 @@
-Temporary file for testing new .gitignore whitelist:
-
-via .gitignore:
-    # Allow temporary files like temp-hello-kitty.txt
-    # note: use _temp for truly temporary (e.g., _temp-hello-kitty.txt).
-    !temp-*
